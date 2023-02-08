@@ -1,0 +1,97 @@
+::-webkit-scrollbar {
+  width: 5px !important;
+  height: 5px !important;
+}
+::-webkit-scrollbar-track {
+  background: #383838 !important;
+  border-radius: 16px !important;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #cfc9c5 !important;
+  border: 1px solid #1a1a1a !important;
+  border-radius: 16px !important;
+}
+
+@font-face {
+  font-family: "Poppins-ExtraLight";
+  src: url("https://res.cloudinary.com/metakey/raw/upload/v1636668453/metakrewLandingPageNew/fonts/Poppins-ExtraLight_q2d7mk.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: url("https://res.cloudinary.com/metakey/raw/upload/v1636668459/metakrewLandingPageNew/fonts/Poppins-Regular_kodqic.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Poppins-Light";
+  src: url("https://res.cloudinary.com/metakey/raw/upload/v1636668485/metakrewLandingPageNew/fonts/Poppins-Light_aogpnc.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Poppins-SemiBold";
+  src: url("https://res.cloudinary.com/metakey/raw/upload/v1636668478/metakrewLandingPageNew/fonts/Poppins-SemiBold_ijusbv.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Questrial";
+  src: url("https://res.cloudinary.com/metakey/raw/upload/v1636668472/metakrewLandingPageNew/fonts/Questrial-Regular_xy143k.ttf");
+  font-display: swap;
+}
+
+
+body {
+  background-color: #060B1F;
+  color: #8B95A6;
+  font-family: 'Questrial', sans-serif;
+  overflow-x: hidden;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.rarityMetakrewImage {
+  width: 100%;
+  height: auto;
+  border-radius: 20px;
+}
+
+
+.grid {
+  display: grid;
+  grid-gap: 16px;
+  padding: 16px;
+
+  @media (min-width: 800px) {
+      grid-template-columns: repeat(3, 1fr);
+  }
+
+  @media (min-width: 1000px) {
+      grid-template-columns: repeat(4, 1fr);
+  }
+
+  @media (min-width: 1200px) {
+      grid-template-columns: repeat(5, 1fr);
+  }
+}
+
+.gridSearch {
+  display: grid;
+  grid-gap: 16px;
+  padding: 16px;
+
+  @media (min-width: 800px) {
+      grid-template-columns: repeat(3, 1fr);
+  }
+
+  @media (min-width: 1000px) {
+      grid-template-columns: repeat(4, 1fr);
+  }
+
+  @media (min-width: 1200px) {
+      grid-template-columns: repeat(4, 1fr);
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "intro": {
+    "it": {
+      "title": "What is it?",
+      "content": "The Metakrew is a collection of 9750 pfp avatars randomly generated from a pool of over 200 traits, loaded with Metaverse utility. Metakrew launched in November with each avatar minted by Metakey-holders for free (+ gas). The Krew represents the identity of the Metakey community - a diverse and eclectic band of pirates and pioneers exploring the infinite metaverse."
+    },
+    "does": {
+      "title": "What it does",
+      "content": "Unique and stylistic representation in the metaverse is extremely powerful; but the 2D pfp is just the beginning. Every Krewmate will have a 3D counterpart generated from the same metadata, plugged into countless spaces including virtual worlds and games. They will be further customizable in these spaces with extra accessories on top of those rolled on generation."
+    }
+  },
+  "race": [
+    {
+      "race": "Lore",
+      "title": "The Lore",
+      "content": [
+        "2061: The discovery of Bio-Minting.",
+        "As humankind retreated deeper into virtual space to escape the growing injustices of meat-space, the global and now interplanetary monopoly— the SOLAR syndicate— sought to disrupt any challenges to their plans for metaverse domination. They succeeded in the first conversion of human genetic and neurological data into an NFT, sending human agents into the metaverse, literally and completely. The process was dangerous and expensive, with strange and frightening side-effects...",
+        "SOLAR soon pivoted to the development of a prototype vessel which could safely and reliably carry a crew into and throughout the Metaverse — the Metakey— but soon after her maiden voyage, this flagship was commandeered by a defecting SOLAR agent, known only as “The Captain”.",
+        "For three years, The Captain has eluded SOLAR; hunted through the remote, wondrous frontiers of the metaverse: seeking freedom, treasure, knowledge and a Metakrew of those brave or foolish enough to pursue it."
+      ],
+      "image": "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/v1636447928/metakrewLandingPageNew/races/lore_jjgc1u.png"
+    },
+    {
+      "race": "Humans",
+      "title": "The Humans: 85.65%",
+      "content": [
+        "As SOLAR monopolised more and more of meat-space into the mid-21st Century, the number and variety of blockchain-native humans greatly expanded. Once bio-minting became relatively accessible, many of us threw caution to the wind and seized this opportunity to integrate ourselves into the metaverse completely.",
+        "Traders, entrepreneurs, rebels, creatives, developers, gamers— the boldest of us have rallied behind the Captain, the revolutionary Metakey and the infinite opportunities it represents."
+      ],
+      "image": "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/v1636447925/metakrewLandingPageNew/races/human_eozwpb.png"
+    },
+    {
+      "race": "Revenants",
+      "title": "The Revenants: 11%",
+      "content": [
+        "Known as “ghouls” in common parlance, though they may consider this an insult.",
+        "On a dark, unfinished world from a project long rugged and forgotten, the Revenants run wild. This lost corner of the metaverse has become a dumping ground for all of SOLAR's mistakes and dirty secrets. They call it Umbriel.",
+        "The process of bio-minting renders biological and neurological data in separate packets before binding them into a single NFT. Occasionally, the neurological packet is irreparably damaged or lost— the minted result, a pale husk of the original subject.",
+        "Most Revenants are nigh-mindless — more beast than human... But not all of them. Some have awakened in Umbriel — with no memory or sense of their former self, eager to escape this hellish realm and forge a new life in the metaverse."
+      ],
+      "image": "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/v1636447924/metakrewLandingPageNew/races/ghouls_nlww6t.png"
+    },
+    {
+      "race": "Shrouds",
+      "title": "The Shrouds: 2%",
+      "content": [
+        "Little is known about these masked individuals, and they seem to prefer it that way. Some believe them to be humanoid bodies created to house sophisticated AI, or returned souls lost in the creation of Revenants. Others will insist that they’re merely humans desiring the security of anonymity. The truth may be some combination, or perhaps something stranger still.",
+        "A trait common to most Shrouds seems to be a distinct reluctance to leave the metaverse for “real” space…"
+      ],
+      "image": "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/v1636447927/metakrewLandingPageNew/races/cyber_world_hiluhi.png"
+    },
+    {
+      "race": "Cybrids",
+      "title": "The Cybrids: 1%",
+      "content": [
+        "Another rare complication of bio-minting, Cybrids are the result of errors in DNA data packaging when a human attempts to mint with a significant amount of non-human genetic material upon their person.",
+        "The senior SOLAR researcher who became the first known Cybrid was described by one of his peers as “definitely a cat-person, pretty much constantly covered in cat-hair; and after the accident, like… literally”. Although the transformation was irreversible, the researcher retained most of his neurological data and was able to continue his life relatively unaffected.",
+        "Given that the vast majority of known Cybrids are of a feline appearance (AKA Felicybrids), it appears that many people have replicated the error deliberately; although for what purpose we can only speculate."
+      ],
+      "image": "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/v1636447922/metakrewLandingPageNew/races/cats_mpzgku.png"
+    },
+    {
+      "race": "Vanguards",
+      "title": "The Vanguard: 0.25%",
+      "content": [
+        "Identifying as a humanoid alien has been a popular trend in NFT culture since the earliest generative PFP projects, and no one has ever observed one of these self-professed “Vanguards” outside of virtual space...",
+        "There are some conspiracy theories which posit that humans weren’t the first intelligent lifeforms to develop blockchains or bio-minting technology, but that’s probably all they are — theories, right?"
+      ],
+      "image": "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/v1636447922/metakrewLandingPageNew/races/alilens_baliu0.png"
+    }
+  ],
+  "traits": [
+    {
+      "title": "Traits (250+)",
+      "content": "In a day, the Metakrew can traverse more environments than most denizens of meat-space experience in a lifetime. From deep-space, to corrosive atmospheres and glitched digital worlds that will unravel your DNA— the Krew is kitted out to handle the worst (whilst looking the best)!",
+      "special": "",
+      "images": [
+        { "title": "Common", "url": "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/v1636518369/metakrewLandingPageNew/traits/acc/19_yzri45.jpg" },
+        { "title": "Rare", "url": "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/v1636518369/metakrewLandingPageNew/traits/acc/31_neqqen.jpg" },
+        { "title": "Rare", "url": "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/v1636518369/metakrewLandingPageNew/traits/acc/12_atjj0u.jpg" },
+        { "title": "Rare", "url": "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/v1636518369/metakrewLandingPageNew/traits/acc/10_bzcgv1.jpg" }
+      ]
+    },
+    {
+      "title": "Weapons (19)",
+      "content": "Self-defense in the metaverse is often necessary and unconventional. Every world has its own rules for combat and so we avail ourselves of a variety of weapons from standard-issue VEU laser rifles, to enchanted blades collected from various games, to more improvised solutions…",
+      "special": "",
+      "images": [
+        { "title": "Common", "url": "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/v1636519251/metakrewLandingPageNew/traits/weapons/human_1_rf8t1l.jpg" },
+        { "title": "Rare", "url": "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/v1636519251/metakrewLandingPageNew/traits/weapons/cat_k1idb2.jpg" },
+        { "title": "Rare", "url": "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/v1636519251/metakrewLandingPageNew/traits/weapons/alien_1_k1tb5s.jpg" },
+        { "title": "Rare", "url": "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/v1636519251/metakrewLandingPageNew/traits/weapons/ghoul_1_heqa1q.jpg" }
+      ]
+    },
+    {
+      "title": "Outfits (31)",
+      "content": "Humankind had long collectively agreed that a future without leather and neon was a future not worth having; so the metaverse dress code is a delicate balance of utility and style. Complemented with protective armor or scrap, and straps or pouches to help carry every NFT that isn’t nailed down— the Krew is always ready to drip and kick ass.",
+      "special": "",
+      "images": [
+        { "title": "Common", "url": "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/v1636518939/metakrewLandingPageNew/traits/outfits/ghoul_vmjtfq.jpg" },
+        { "title": "Common", "url": "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/v1636518939/metakrewLandingPageNew/traits/outfits/robot_blaudn.jpg" },
+        { "title": "Common", "url": "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/v1636518939/metakrewLandingPageNew/traits/outfits/human_rmwequ.jpg" },
+        { "title": "Common", "url": "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/v1636518939/metakrewLandingPageNew/traits/outfits/alien_enfpky.jpg" }
+      ]
+    },
+    {
+      "title": "Auras (4)",
+      "content": "The Collectors’ Editions (Metakey Editions 1-3) will generate special “aura” traits upon minting Krewmates. For a further breakdown of aura generation, check the FAQs.",
+      "special": "",
+      "images": [
+        { "title": "Common", "url": "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/v1636519069/metakrewLandingPageNew/traits/auras/3_qj6w4s.jpg" },
+        { "title": "Common", "url": "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/v1636519069/metakrewLandingPageNew/traits/auras/6_wbsxwb.jpg" },
+        { "title": "Common", "url": "https://res.cloudinary.com/metakey/image/upload/f_jpg/q_auto:eco/v1636446958/metakrewLandingPageNew/traits/redauragif_y961ng.gif" },
+        { "title": "Common", "url": "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/v1636519069/metakrewLandingPageNew/traits/auras/9_kqbe8r.jpg" }
+      ]
+    }
+  ],
+  "mint": {
+    "title": "MINT COMING SOON...",
+    "content": "The Metakrew is 9750 randomly generated unique avatars on the Ethereum Blockchain."
+  },
+  "roadmap": [
+    {
+      "title": "Now",
+      "content": "2D avatars & Commercial reproduction rights.",
+      "image": "https://res.cloudinary.com/metakey/image/upload/f_jpg/q_auto:eco/v1636446494/metakrewLandingPageNew/roadmap/now_b37kqe.gif",
+      "special": "* All Metakey IP and branding including the Metakey logo and name  are reserved and can only be used exactly as they appear on the representation of the holder’s “Metakrew” ERC 721."
+    },
+    {
+      "title": "Later",
+      "content": "Wearable NFT drops, Exclusive NFT art drops, Physical Merchandise, Metakrew Lore portal.",
+      "image": "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/v1636446492/metakrewLandingPageNew/roadmap/soon_yrgtdb.png"
+    },
+    {
+      "title": "Future",
+      "content": "Animated 3D models for each Krewmate, Vtuber rigs for Zoom and Discord calls etc. Full VR character rigs enabling VR integration for every Krewmate. Krewmates as playable characters in multiple partnered games Untitled Metakey game integration.",
+      "image": "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/v1636446493/metakrewLandingPageNew/roadmap/later_szjnjk.png"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How many avatars in the collection?",
+      "content": "There will be 9750 randomly generated pfps in the Metakrew."
+    },
+    {
+      "question": "Is there a presale?",
+      "content": "No! The Metakrew are free to claim (plus gas) for Metakey holders; as such a presale is not necessary."
+    },
+    {
+      "question": "How long is the claim window?",
+      "content": "We are planning a two week claim window."
+    },
+    {
+      "question": "What is the token standard?",
+      "content": "Each avatar is a discrete ERC 721 token."
+    },
+    {
+      "question": "Do I need to be a Metakey holder to get one?",
+      "content": "Yes— only Metakey holders at the time of snapshot will be able to claim; if you purchase a Metakey after the snapshot you will only be able to score a Metakrew avatar on the secondary market."
+    },
+    {
+      "question": "How long until reveal?",
+      "content": "Once the claim window is over, we will apply the guaranteed auras and then upload all the metadata to IPFS. Further details TBA."
+    },
+    {
+      "question": "Where can I buy a Metakey?",
+      "content": "Make sure you only buy from verified sources!"
+    },
+    {
+      "question": "What is the difference between the Metakrew and the Metakey?",
+      "content": "Metakey = Access. Metakrew = Identity. The utility of the Metakrew will not cannibalise that of the Metakey (or vice-versa)."
+    },
+    {
+      "question": "How do the Collectors’ Editions’ “aura” traits work?",
+      "content": "Holders of Metakey Editions 1, 2 and 3 (as well as Key Masters) will generate exclusive backgrounds auras."
+    }
+  ],
+  "brought": {
+    "title": "THE METAKEY",
+    "content": "Spearheading interoperability within the Web 3 ecosystem, bringing ease of access to metaverse enthusiasts, supporting industry growth through partner integrations and educating our community about blockchain technology."
+  },
+  "team": [
+    {
+      "name": "Matty",
+      "image":
+        "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/c_scale,w_400/v1636082988/metakrewLandingPage/matty_ll356c.jpg",
+      "title": "Captain",
+      "social": "https://twitter.com/DCLBlogger"
+    },
+    {
+      "name": "Mohsi",
+      "image":
+        "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/c_scale,w_400/v1636082988/metakrewLandingPage/MOhsi_hdgrub.jpg",
+      "title": "First Officer",
+      "social": "https://twitter.com/AgentMohsi"
+    },
+    {
+      "name": "Billy",
+      "image":
+        "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/c_scale,w_400/v1636082994/metakrewLandingPage/billy_tq8bpz.jpg",
+      "title": "Chief Metaverse Architect",
+      "social": "https://twitter.com/BillyKRoberts"
+    },
+    {
+      "name": "Victor",
+      "image":
+        "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/c_scale,w_400/v1636082988/metakrewLandingPage/victor_knekyx.jpg",
+      "title": "Starship Engineer",
+      "social": "https://twitter.com/Atheal9k"
+    },
+    {
+      "name": "Michael",
+      "image":
+        "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/c_scale,w_400/v1636082988/metakrewLandingPage/Micheal_pvcng3.jpg",
+      "title": "Xeno-Anthropologist",
+      "social": ""
+    },
+    {
+      "name": "Poppy",
+      "image":
+        "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/c_scale,w_400/v1636082992/metakrewLandingPage/Poppy_c8xsjm.jpg",
+      "title": "Polyhistor Artisan",
+      "social": "https://twitter.com/p_opp_i"
+    },
+    {
+      "name": "Vuey",
+      "image":
+        "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/c_scale,w_400/v1636083461/metakrewLandingPage/Vuey_x9czfe.png",
+      "title": "Holodeck Imagineer",
+      "social": ""
+    },
+    {
+      "name": "Sarah",
+      "image":
+        "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/c_scale,w_400/v1636083461/metakrewLandingPage/Sarah_evlazu.png",
+      "title": "Social Metamagician",
+      "social": "https://www.instagram.com/sarahcorgii/"
+    },
+    {
+      "name": "Tyler",
+      "image":
+        "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/c_scale,w_400/v1636083462/metakrewLandingPage/Tyler_s1v7ux.png",
+      "title": "Starship Architect",
+      "social": "https://twitter.com/TylerMarks_3D"
+    },
+    {
+      "name": "Sonny",
+      "image":
+        "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/c_scale,w_400/v1636083462/metakrewLandingPage/Sonny_kghoic.png",
+      "title": "First Contact Specialist",
+      "social": "https://twitter.com/Ego_101"
+    },
+    {
+      "name": "Jimi",
+      "image":
+        "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/c_scale,w_400/v1636083702/metakrewLandingPage/Jimi_qvoyzj.png",
+      "title": "Dream-Weaver",
+      "social": "https://twitter.com/ThatOneJimi"
+    },
+    {
+      "name": "Pat",
+      "image":
+        "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/c_scale,w_400/v1636083703/metakrewLandingPage/Pat_a2w3c7.png",
+      "title": "NFT Cartographer",
+      "social": ""
+    },
+    {
+      "name": "Will",
+      "image":
+        "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/c_scale,w_400/v1636083702/metakrewLandingPage/Will_g0aocj.png",
+      "title": "Metaverse Comms Strategist",
+      "social": "https://twitter.com/KrawczukWill"
+    },
+    {
+      "name": "Jess",
+      "image":
+        "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/c_scale,w_400/v1636083888/metakrewLandingPage/Jess_yswfvz.png",
+      "title": "Hologram Actualiser",
+      "social": ""
+    },
+    {
+      "name": "Suss",
+      "image":
+        "https://res.cloudinary.com/metakey/image/upload/f_webp/q_auto:eco/c_scale,w_400/v1636082495/metakrewLandingPage/Jacob_nxh5fd.png",
+      "title": "Web3 Radical Edward",
+      "social": "https://github.com/suisuss"
+    }
+  ]
+}
