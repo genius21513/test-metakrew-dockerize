@@ -28,11 +28,11 @@ export const LinksObject = React.forwardRef<any, Props>(({ sx }, ref) => (
     <Box variant="layout.animation.linksObject" sx={{ ...sx }}>
       <Box variant="layout.animation.linksObject.linkBox" onClick={() => { window.open("https://twitter.com/themetakey", "_blank"); }}>
         <Text sx={{ mr: "1rem" }}>TWITTER</Text>
-        <Image src={'/icon-twitter.6c04881e.svg'} width="15px" height="15px" alt="Twitter Logo" />
+        <Image src={'icon-twitter.6c04881e.svg'} width="15px" height="15px" alt="Twitter Logo" />
       </Box>
       <Box variant="layout.animation.linksObject.linkBox" sx={{ ml: "2rem" }} onClick={() => { window.open("https://discord.com/invite/metakey", "_blank"); }} >
         <Text sx={{ mr: "1rem" }}>DISCORD</Text>
-        <Image src={'/icon-discord.80ff3eb7.svg'} width="15px" height="15px" alt="Discord Logo" />
+        <Image src={'icon-discord.80ff3eb7.svg'} width="15px" height="15px" alt="Discord Logo" />
       </Box>
     </Box>
   </BrowserView>
