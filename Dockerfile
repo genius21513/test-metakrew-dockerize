@@ -20,6 +20,7 @@ COPY ./package.json yarn.lock ./
 # RUN npm install --production --omit=dev
 # RUN yarn install --frozen-lockfile
 RUN yarn install
+RUN npx browserslist@latest --update-db
 
 # Copy all files
 COPY ./ ./
@@ -36,6 +37,5 @@ EXPOSE 3000
 # USER node
 
 # Run npm start script with PM2 when container starts
-# CMD [ "pm2-runtime", "npm", "--", "start" ]s
+# CMD [ "pm2-runtime", "npm", "--", "start" ]
 CMD [ "pm2-runtime", "start", "yarn start" ]
-# CMD [ "yarn", "pm2:runtime" ]
