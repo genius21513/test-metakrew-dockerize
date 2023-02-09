@@ -8,6 +8,6 @@ module.exports = {
   images: {
     domains: ['res.cloudinary.com'],
   },
-  assetPrefix: isProd? "/metakrew.com/" : "",
-  basePath: isProd? "/metakrew.com" : "."
+  assetPrefix: isProd? "/metakrew.com/" : "",   // include js, css files
+  basePath: isProd? "/metakrew.com" : "."     // include all links, routing urls
 }

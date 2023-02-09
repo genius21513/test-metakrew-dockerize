@@ -18,7 +18,7 @@ export const Footer: React.FC = () => {
             }}
             href="https://discord.gg/metakey"
           >
-            <Image src={'icon-discord.80ff3eb7.svg'} width={iconDimensions} height={iconDimensions} alt="Discord Logo" />
+            <Image src={'/icon-discord.80ff3eb7.svg'} width={iconDimensions} height={iconDimensions} alt="Discord Logo" />
           </Link>
           <Link variant="layout.section.footer.iconsContainer.link"
             sx={{
@@ -40,7 +40,7 @@ export const Footer: React.FC = () => {
             }}
             href="https://twitter.com/themetakey"
           >
-            <Image src={'icon-twitter.6c04881e.svg'} width={iconDimensions} height={iconDimensions} alt="Twitter Logo" />
+            <Image src={'/icon-twitter.6c04881e.svg'} width={iconDimensions} height={iconDimensions} alt="Twitter Logo" />
           </Link>
           <Link variant="layout.section.footer.iconsContainer.link"
             sx={{
