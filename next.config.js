@@ -9,5 +9,5 @@ module.exports = {
     domains: ['res.cloudinary.com'],
   },
   assetPrefix: isProd? "/metakrew.com/" : "",
-  basePath: isProd? "/metakrew.com/" : ""
+  basePath: isProd? "/metakrew.com" : "."
 }
