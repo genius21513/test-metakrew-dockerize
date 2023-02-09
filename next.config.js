@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 
-const isProd = process.env.NODE_ENV === 'production'
+// const isProd = process.env.NODE_ENV === 'production'
 
 module.exports = {
   reactStrictMode: true,
@@ -8,6 +8,6 @@ module.exports = {
   images: {
     domains: ['res.cloudinary.com'],
   },
-  assetPrefix: isProd? "/metakrew.com/" : "",   // include js, css files
-  basePath: isProd? "/metakrew.com" : "."     // include all links, routing urls
+  // assetPrefix: isProd? "/metakrew.com/" : "",   // include js, css files
+  // basePath: isProd? "/metakrew.com" : "."     // include all links, routing urls
 }
